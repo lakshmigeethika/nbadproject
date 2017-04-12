@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/Spandana_Sakthi_Assignment4_1">
+  <Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" 
+            logAbandoned="true" maxActive="100" maxIdle="30" 
+            maxWait="10000" name="jdbc/nbad4" password="RYD5LAgMeID_" 
+            removeAbandoned="true" removeAbandonedTimeout="60" 
+            type="javax.sql.DataSource" 
+            url="jdbc:mysql://127.7.184.130:3306/nbad4" username="adminvs7lQms"/>
+</Context>
